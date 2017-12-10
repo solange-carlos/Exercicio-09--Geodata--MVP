@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoData</string>
+    <string name="btn_busca">Búsqueda</string>
+    <string name="lblContinente">Región: </string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </string-array>
+    <string name="lbl_codigo3">Código Alfa 3: </string>
+    <string name="lbl_capital">Capital: </string>
+    <string name="lbl_regiao">Región: </string>
+    <string name="lbl_subregiao">Subregión: </string>
+    <string name="lbl_demonimo">Gentilicio: </string>
+    <string name="lbl_populacao">Populación: </string>
+    <string name="lbl_area">Area: </string>
+    <string name="lbl_gini">Gini: </string>
+    <string name="lbl_latitude">Latitud: </string>
+    <string name="lbl_longitude">Longitud: </string>
+    <string name="msg_rede">"Red inalámbrica inactiva. Uso de datos locales."</string>
+</resources>

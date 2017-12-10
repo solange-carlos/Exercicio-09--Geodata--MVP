@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GeoData</string>
+    <string name="btn_busca">Listar</string>
+    <string name="lblContinente">Continente: </string>
+    <string-array name="continentes">
+        <item>Todos</item>
+        <item>África</item>
+        <item>Américas</item>
+        <item>Ásia</item>
+        <item>Europa</item>
+        <item>Oceania</item>
+        <item>Polar</item>
+    </string-array>
+    <string name="lbl_codigo3">Codigo Alfa 3: </string>
+    <string name="lbl_capital">Capital: </string>
+    <string name="lbl_regiao">Região: </string>
+    <string name="lbl_subregiao">Subregião: </string>
+    <string name="lbl_demonimo">Demônimo: </string>
+    <string name="lbl_populacao">População: </string>
+    <string name="lbl_area">Área: </string>
+    <string name="lbl_gini">Gini: </string>
+    <string name="lbl_latitude">Latitude: </string>
+    <string name="lbl_longitude">Longitude: </string>
+    <string name="msg_rede">"Rede inativa. Usando armazenamento local."</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
